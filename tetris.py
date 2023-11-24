@@ -1,9 +1,6 @@
-# Reto #33: Tetris
-#### Dificultad: Difícil | Publicación: 14/08/23 | Corrección: 21/08/23
+# Tetris
 
 ## Enunciado
-
-#
 # Crea un programa capaz de gestionar una pieza de Tetris.
 # - La pantalla de juego tiene 10 filas y 10 columnas representadas por símbolos 🔲
 # - La pieza de tetris a manejar será la siguiente (si quieres, puedes elegir otra):
